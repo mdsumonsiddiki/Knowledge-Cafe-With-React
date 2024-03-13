@@ -1,6 +1,6 @@
 function Footer() {
   return (
-    <footer>
+    <footer className="container mx-auto">
         <h1>Footer Section</h1>
     </footer>
   )
