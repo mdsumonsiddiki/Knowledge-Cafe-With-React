@@ -1,7 +1,7 @@
 [
     {
       "id": 1,
-      "img": "image1.jpg",
+      "img": "https://i.ibb.co/Cn9j8Ln/2147657240.jpg",
       "author_img": "author1.jpg",
       "author_name": "john doe",
       "reading_time": "10",
@@ -11,7 +11,7 @@
     },
     {
       "id": 2,
-      "img": "image2.jpg",
+      "img": "https://i.ibb.co/WzhNTfx/athletic-women-doing-fitness-exercises.jpg",
       "author_img": "author2.jpg",
       "author_name": "jane smith",
       "reading_time": "8",
@@ -21,7 +21,7 @@
     },
     {
       "id": 3,
-      "img": "image3.jpg",
+      "img": "https://i.ibb.co/vwmDbst/2148114172.jpg",
       "author_img": "author3.jpg",
       "author_name": "alex wang",
       "reading_time": "15",
@@ -31,7 +31,7 @@
     },
     {
       "id": 4,
-      "img": "image4.jpg",
+      "img": "https://i.ibb.co/3fZSFjJ/pexels-stanislav-kondratiev-3014826.jpg",
       "author_img": "author4.jpg",
       "author_name": "emily jones",
       "reading_time": "12",
@@ -41,7 +41,7 @@
     },
     {
       "id": 5,
-      "img": "image5.jpg",
+      "img": "https://i.ibb.co/7XLS6wd/pexels-oleksandr-p-1008155.jpg",
       "author_img": "author5.jpg",
       "author_name": "michael brown",
       "reading_time": "20",
@@ -51,7 +51,7 @@
     },
     {
       "id": 6,
-      "img": "image6.jpg",
+      "img": "https://i.ibb.co/rFtrx1p/pexels-andrea-piacquadio-3791136.jpg",
       "author_img": "author6.jpg",
       "author_name": "sarah johnson",
       "reading_time": "18",
@@ -61,7 +61,7 @@
     },
     {
       "id": 7,
-      "img": "image7.jpg",
+      "img": "https://i.ibb.co/BchGY6z/pexels-cottonbro-studio-4065133.jpg",
       "author_img": "author7.jpg",
       "author_name": "david li",
       "reading_time": "14",
@@ -71,7 +71,7 @@
     },
     {
       "id": 8,
-      "img": "image8.jpg",
+      "img": "https://i.ibb.co/6HRmTjY/pexels-ivan-samkov-7990145.jpg",
       "author_img": "author8.jpg",
       "author_name": "lisa kim",
       "reading_time": "9",
@@ -81,7 +81,7 @@
     },
     {
       "id": 9,
-      "img": "image9.jpg",
+      "img": "https://i.ibb.co/hZbsDRL/pexels-thisisengineering-3861958.jpg",
       "author_img": "author9.jpg",
       "author_name": "steven chen",
       "reading_time": "16",
@@ -91,7 +91,7 @@
     },
     {
       "id": 10,
-      "img": "image10.jpg",
+      "img": "https://i.ibb.co/8gGNMP4/pexels-ella-olsson-1640770.jpg",
       "author_img": "author10.jpg",
       "author_name": "amy white",
       "reading_time": "11",
